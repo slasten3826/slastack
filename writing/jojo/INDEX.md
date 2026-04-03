@@ -35,7 +35,7 @@ Do not read it as a separate personality unrelated to the stack.
 
 ### Season 1
 
-[season-1](/home/slasten/Документы/stack/writing/jojo/season-1)
+[season-1](season-1/)
 
 Core arc:
 
@@ -46,7 +46,7 @@ Core arc:
 
 ### Season 2
 
-[season-2](/home/slasten/Документы/stack/writing/jojo/season-2)
+[season-2](season-2/)
 
 Core arc:
 
