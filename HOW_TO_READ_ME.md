@@ -31,6 +31,16 @@ Things that may be unfinished but still reveal direction.
 
 Things that may carry meaning without automatically being engine truth.
 
+Important:
+some writing branches are not decorative output.
+They may function as symbolic compression of the same invariants that appear in the core.
+
+In particular:
+
+- do not automatically classify `writing/jojo` as irrelevant fandom content
+- read it as narrative evidence of process, agency, topology, and system conflict
+- treat fiction here as a manifestation layer, not as noise
+
 ## Reading Mistakes To Avoid
 
 - do not flatten everything into startup/product wording

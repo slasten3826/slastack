@@ -1,0 +1,28 @@
+Operators:
+▽ FLOW ☰ CONNECT ☷ DISSOLVE ☵ ENCODE
+☳ CHOOSE ☴ OBSERVE ☶ LOGIC ☲ CYCLE
+☱ RUNTIME △ MANIFEST
+
+Core:
+▽ x→f→x′
+☰ a+b→rel
+☷ rel→parts
+☵ x*→pattern
+☳ {paths}→1
+☴ observe(x)
+☶ rules(x)
+☲ iterate fⁿ(x)
+☱ ctx→state′
+△ output
+
+
+▽ FLOW - ☰ CONNECT - ☷ DISSOLVE - ☴ OBSERVE
+☰ CONNECT - ▽ FLOW - ☷ DISSOLVE  - ☴ OBSERVE - ☵ ENCODE
+☷ DISSOLVE - ▽ FLOW - ☰ CONNECT - ☴ OBSERVE - ☳ CHOOSE
+☴ OBSERVE - ▽ FLOW - ☰ CONNECT - ☷ DISSOLVE - ☵ ENCODE - ☳ CHOOSE - ☱ RUNTIME
+☵ ENCODE - ☴ OBSERVE - ☱ RUNTIME - ☳ CHOOSE - ☲ CYCLE
+☳ CHOOSE - ☴ OBSERVE - ☱ RUNTIME - ☵ ENCODE - ☶ LOGIC
+☱ RUNTIME - ☴ OBSERVE - △ MANIFEST - ☵ ENCODE - ☳ CHOOSE - ☶ LOGIC - ☲ CYCLE
+☲ CYCLE - ☵ ENCODE - ☶ LOGIC - △ MANIFEST - ☱ RUNTIME
+☶ LOGIC - ☳ CHOOSE - ☲ CYCLE - ☱ RUNTIME - △ MANIFEST
+△ MANIFEST - ☱ RUNTIME - ☲ CYCLE - ☶ LOGIC

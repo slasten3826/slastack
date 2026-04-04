@@ -39,6 +39,8 @@ Machine-facing profile material:
 Deepest stack documents:
 
 - ProcessLang
+- canonical ProcessLang payload
+- selected operator manifestations
 - stack ontology
 - layer maps
 - reading order for core branches
@@ -59,6 +61,7 @@ Root thought that explains where the stack came from:
 - process-first ideas
 - cognition notes
 - dissipative math / process ontology
+- mathematical formalization branch
 
 ### `writing/`
 
@@ -67,6 +70,7 @@ Creative branches that still matter for identity and style:
 - fiction
 - fanfiction
 - narrative experiments
+- symbolic compression of core conflicts
 
 ### `protocols/`
 
@@ -93,3 +97,10 @@ Images, covers, diagrams, screenshots, and selected video assets.
 ## Current Note
 
 This structure is meant to prevent the repository from collapsing into one flat dump.
+
+Some directories now contain actual core payload rather than only placeholder indexes.
+In particular:
+
+- `stack-core/` contains `ProcessLang` material
+- `philosophy/math/` contains formal mathematics/process documents
+- `writing/jojo/` should be read as a connected narrative branch, not detached side content

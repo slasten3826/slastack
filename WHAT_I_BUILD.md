@@ -5,6 +5,9 @@ I build one connected stack with multiple manifestations.
 The repositories should not be treated as random side projects.
 They are branches of one deeper direction.
 
+Code, documents, and fiction are not separate identities here.
+They are parallel manifestation layers of the same stack.
+
 ## Main Themes
 
 - process-centered systems
