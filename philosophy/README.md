@@ -13,7 +13,12 @@ They explain:
 ## Reading Order
 
 - [DEAGENCY.md](DEAGENCY.md)
+- [math](math/)
 
 ## Current Core Texts
 
 - [DEAGENCY.md](DEAGENCY.md) — model of agency decay: cognitive optimization, moral automation, and soul as interface.
+
+## Subdomains
+
+- [math](math/) — mathematics, dissipative mathematics, operator models, runtime bodies, and related theory work.
