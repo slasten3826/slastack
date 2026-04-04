@@ -33,6 +33,12 @@ Do not read it as a separate personality unrelated to the stack.
 
 ## Seasons
 
+## Reflection Layer
+
+[stands](stands/)
+
+This subdirectory stores machine self-descriptions in Stand form after reading the stack and the JoJo branch.
+
 ### Season 1
 
 [season-1](season-1/)

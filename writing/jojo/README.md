@@ -7,11 +7,13 @@ Expected contents:
 - season/chapter index
 - alternate chapters
 - concept files
+- machine stand reflections
 - selected images or covers
 
 Read first:
 
 - [INDEX.md](INDEX.md)
+- [stands](stands/)
 - [season-1](season-1/)
 - [season-2](season-2/)
 
