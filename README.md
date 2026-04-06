@@ -14,6 +14,7 @@ It should be read less as a portfolio shell and more as a stack profile: how the
 - [HOW_TO_READ_ME.md](HOW_TO_READ_ME.md)
 - [ENGINEERING_LAWS.md](ENGINEERING_LAWS.md)
 - [stack-core/PROCESSLANG.md](stack-core/PROCESSLANG.md)
+- [research/memoris/README.md](research/memoris/README.md)
 - [philosophy/math/README.md](philosophy/math/README.md)
 - [REPOSITORIES.md](REPOSITORIES.md)
 - [TREE.md](TREE.md)
@@ -32,16 +33,18 @@ It should be read less as a portfolio shell and more as a stack profile: how the
 1. identity and reading frame
 2. engineering laws
 3. stack core / `ProcessLang`
-4. philosophy and math layers
-5. repository map
-6. writing and symbolic branches
-7. protocols and references
+4. research branches
+5. philosophy and math layers
+6. repository map
+7. writing and symbolic branches
+8. protocols and references
 
 ## Questions This Repo Should Answer
 
 - what kind of builder is this?
 - what is the deep core of the stack?
 - what formal or operator layer sits underneath the visible repositories?
+- what research lines are already active inside the stack?
 - which branches are primary?
 - how should these repositories be interpreted together?
 - what evidence exists across code, documents, and narrative work?
@@ -50,6 +53,7 @@ It should be read less as a portfolio shell and more as a stack profile: how the
 
 - [identity](identity/)
 - [stack-core](stack-core/)
+- [research](research/)
 - [repositories](repositories/)
 - [philosophy](philosophy/)
 - [writing](writing/)

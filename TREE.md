@@ -15,6 +15,7 @@ slastack/
 ├── REPOSITORIES.md
 ├── identity/
 ├── stack-core/
+├── research/
 ├── repositories/
 ├── philosophy/
 ├── writing/
@@ -44,6 +45,16 @@ Deepest stack documents:
 - stack ontology
 - layer maps
 - reading order for core branches
+
+### `research/`
+
+Curated research branches that grew out of the stack strongly enough to become part of the readable canon:
+
+- machine-facing experiments
+- memoris / neural state observations
+- lens compilation work
+- state, residue, and continuity probes
+- selected pressure-tested syntheses from larger archives
 
 ### `repositories/`
 
@@ -102,5 +113,6 @@ Some directories now contain actual core payload rather than only placeholder in
 In particular:
 
 - `stack-core/` contains `ProcessLang` material
+- `research/` contains the first curated research branch: `memoris`
 - `philosophy/math/` contains formal mathematics/process documents
 - `writing/jojo/` should be read as a connected narrative branch, not detached side content

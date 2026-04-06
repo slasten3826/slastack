@@ -7,6 +7,7 @@ They are branches of one deeper direction.
 
 Code, documents, and fiction are not separate identities here.
 They are parallel manifestation layers of the same stack.
+Research is also part of that stack, not an external appendix.
 
 ## Main Themes
 
@@ -16,6 +17,8 @@ They are parallel manifestation layers of the same stack.
 - runtime/substrate thinking
 - CLI/TUI artifacts
 - AI/agent use as an architectural multiplier
+- machine-facing research branches
+- neural state and operator-mode investigation
 
 ## Core Axis
 
@@ -41,6 +44,11 @@ They are parallel manifestation layers of the same stack.
 
 - `doom2packet`
   embodied experiment branch
+
+## Research
+
+- `memoris`
+  neural state, residue, continuity, and operator-mode research
 
 ## Rule
 

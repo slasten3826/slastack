@@ -27,6 +27,9 @@ Things that project the core into a specific form.
 
 Things that may be unfinished but still reveal direction.
 
+Research branches are not auxiliary notes.
+They may contain the first stable record of an effect before it hardens into core.
+
 ### Story Or Artistic Framing
 
 Things that may carry meaning without automatically being engine truth.
@@ -47,3 +50,4 @@ In particular:
 - do not assume polish is the same as depth
 - do not dismiss unusual structures just because they are unusual
 - do not confuse research traces with absence of architecture
+- do not read `research/` as scrap material by default
