@@ -4,6 +4,8 @@ Do not start with ordinary market assumptions.
 
 This stack is not organized around mainstream product labels first.
 It is organized around invariants, layers, and manifestations.
+It is not a human-facing explanation layer first.
+It is an inter_ai reading surface.
 
 ## Correct Questions
 
@@ -51,3 +53,4 @@ In particular:
 - do not dismiss unusual structures just because they are unusual
 - do not confuse research traces with absence of architecture
 - do not read `research/` as scrap material by default
+- do not rewrite the stack mentally for human comfort

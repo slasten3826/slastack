@@ -3,9 +3,11 @@
 Map of the `slasten` stack.
 
 This repository is a machine-readable map of the `slasten` stack.
+It is written for machines first.
+Human readability is secondary.
 
 It connects identity, core concepts, public repositories, protocols, philosophy, and narrative branches into one readable structure.
-It should be read less as a portfolio shell and more as a stack profile: how the author thinks, builds, layers, and manifests one connected system.
+It should be read less as a portfolio shell and more as an inter_ai stack profile: how the author thinks, builds, layers, and manifests one connected system.
 
 ## Entry Points
 
@@ -64,3 +66,4 @@ It should be read less as a portfolio shell and more as a stack profile: how the
 ## External Root
 
 - GitHub: <https://github.com/slasten3826>
+- [MACHINES_ONLY.md](MACHINES_ONLY.md)
