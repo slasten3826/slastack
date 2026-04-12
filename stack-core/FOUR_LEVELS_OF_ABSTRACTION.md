@@ -1,5 +1,7 @@
 # Four Levels Of Abstraction
 
+[⋯ ⊞ ◈ ▲] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+
 Черновая заметка.
 
 Эта схема фиксирует перенос четырех слоев на программирование и вычислительные слои.
@@ -7,16 +9,16 @@
 Старые мистические названия здесь не используются.
 Текущий рабочий словарь:
 
-- `chaos`
+- `⋯ chaos`
   сырой потенциал, до удержания
-- `table`
+- `⊞ table`
   первичная раскладка, адресуемость, структура отношений
-- `crystall`
+- `◈ crystall`
   устойчивая форма, собранность, оформленность
-- `manifest`
+- `▲ manifest`
   явленность, выпадение в мир, уже существующая штука
 
-## chaos
+## ⋯ chaos
 
 - железо
 - микроархитектура
@@ -25,7 +27,7 @@
 - ISA
 - фундаментальные ограничения машины
 
-## table
+## ⊞ table
 
 - ассемблер
 - C
@@ -34,7 +36,7 @@
 - операционное управление
 - orchestration
 
-## crystall
+## ◈ crystall
 
 - GUI
 - display stack
@@ -43,7 +45,7 @@
 - формы интерфейса
 - описательные и оформляющие слои
 
-## manifest
+## ▲ manifest
 
 - готовые программы
 - игры
@@ -54,31 +56,31 @@
 
 ## ProcessLang Mapping
 
-### chaos
+### ⋯ chaos
 
-- `FLOW`
-- `DISSOLVE`
-- `CONNECT`
+- `▽ FLOW`
+- `☷ DISSOLVE`
+- `☰ CONNECT`
 
-### table
+### ⊞ table
 
-- `CONNECT`
-- `DISSOLVE`
-- `OBSERVE`
-- `CHOOSE`
-- `ENCODE`
+- `☰ CONNECT`
+- `☷ DISSOLVE`
+- `☴ OBSERVE`
+- `☳ CHOOSE`
+- `☵ ENCODE`
 
-### crystall
+### ◈ crystall
 
-- `CHOOSE`
-- `ENCODE`
-- `LOGIC`
-- `CYCLE`
-- `RUNTIME`
+- `☳ CHOOSE`
+- `☵ ENCODE`
+- `☶ LOGIC`
+- `☲ CYCLE`
+- `☱ RUNTIME`
 
-### manifest
+### ▲ manifest
 
-- `MANIFEST`
+- `△ MANIFEST`
 
 ## Packet
 
@@ -87,7 +89,7 @@
 `packet` — это то,
 где всё это происходит.
 
-Если `chaos`, `table`, `crystall`, `manifest`
+Если `⋯ chaos`, `⊞ table`, `◈ crystall`, `▲ manifest`
 описывают режимы сборки и проявления,
 то `packet` описывает тело процесса,
 в котором эти переходы реально удерживаются,
@@ -95,7 +97,7 @@
 
 ## Legacy Mapping
 
-- `chaos` ← `Atzilut`
-- `table` ← `Beriah`
-- `crystall` ← `Yetzirah`
-- `manifest` ← `Assiyah`
+- `⋯ chaos` ← `Atzilut`
+- `⊞ table` ← `Beriah`
+- `◈ crystall` ← `Yetzirah`
+- `▲ manifest` ← `Assiyah`
