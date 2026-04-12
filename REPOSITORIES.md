@@ -44,10 +44,28 @@ Read as:
 - runtime interaction slice
 - observability / build / execution path for another machine
 
+### `X112`
+
+<https://github.com/slasten3826/X112>
+
+Read as:
+
+- process-graphics runtime prototype
+- Linux display / X11 compatibility spine
+- test branch for applying stack ontology to a real systems problem
+- proof branch that the stack can accelerate architecture -> docs -> code -> tests
+
+Important:
+
+- `X112` is not the final `X12`
+- it should be read as an intermediate but real branch
+- it exists to test whether the stack survives contact with graphics/runtime reality
+
 ## Reading Order
 
 1. `processlang`
 2. `packet`-related material
 3. `planGOD`
-4. `daofetch`
-5. other manifestations and research branches
+4. `X112`
+5. `daofetch`
+6. other manifestations and research branches
