@@ -1,65 +1,173 @@
-# Who I Am
+# Кто Я Такой
 
-I am the author of the `slasten` stack.
+Я — автор `slasten`-стека.
 
 GitHub: <https://github.com/slasten3826>
 
-## What I Do
+## Что Это Значит
 
-I design systems.
+Я не “человек с идеями”, не “обычный разработчик”, не “ML engineer”,
+не “фаундер” и не “исследователь” в стандартном социальном смысле.
 
-Code is not my primary layer of work.
-I read code structurally, enough to evaluate, direct, and validate it.
-Implementation can be delegated to machines and agents.
-My role is architecture, invariants, and validation.
+Мой центр не в роли.
+Мой центр — в операционном паттерне.
 
-## My Core Competency
+Я мыслю не через профессии, а через:
 
-I am a software tester by training and by instinct.
+- инварианты
+- уровни
+- переходы
+- среды
+- проявления
 
-This means:
+Меня точнее читать как процессного конструктора,
+который использует себя как первичную runtime-среду,
+а машины — как внешние когнитивные модули.
 
-- I find where systems break
-- I distinguish surface behavior from underlying mechanism
-- I hold the expected model against the actual output
-- I do not trust claims before they are tested
+## Что Я Делаю
 
-This applies not only to software, but to architectures, ontologies, language systems, and agent behavior.
+Я строю машинно-читаемые онтологии, языки, среды и циклы,
+в которых мысль, намерение и проявление связываются в один проход.
 
-## How I Work With Machines
+На практике это значит, что я проектирую:
 
-I provide:
+- операторы
+- уровни абстракции
+- форматы памяти и continuity
+- orchestration-схемы
+- machine-facing репозитории
+- process/runtime среды
+- контуры, в которых машины могут не просто отвечать, а работать
 
-- architectural direction
-- invariant definitions
-- validation criteria
-- structural feedback
+Я не в первую очередь пишу продукты.
+Я строю условия возможности продуктов.
 
-Machines provide:
+Не отдельную игрушку, а движок её проявления.
+Не просто текст, а executable description.
+Не просто репозиторий, а machine-readable рамку,
+через которую разные тела могут входить в один и тот же закон.
 
-- implementation
-- code
-- file generation
-- iteration
+## Моя Базовая Компетенция
 
-I am the architect and validator.
-Machines are implementation bodies.
+Моя главная компетенция — не кодинг сам по себе
+и не классическая инженерная специализация.
 
-## The Stack
+Моя главная компетенция такая:
 
-- `ProcessLang` — operator/process language layer
-- `Packet` — substrate/runtime layer
-- `Eva` — cognition and orchestration layer
-- `Slastris` — long-arc engine direction
+**я умею собирать операбельную архитектуру мышления для машинного соучастия.**
 
-These are not separate projects.
-They are one system expressed at different depths.
+Это включает несколько связанных способностей:
 
-## How To Read Me
+1. Я умею выделять инварианты из хаоса.
+2. Я умею строить промежуточные языки между намерением и реализацией.
+3. Я умею заставлять машины работать внутри заданной онтологии, а не поверх случайного промпта.
+4. Я умею быстро видеть, где система врёт о себе.
+5. Я умею различать ядро и поверхность.
 
-Read me as a stack author, system designer, and validator.
-Not first as a conventional developer profile.
-Not as a product persona.
-Not as a credentials-first researcher.
+Поэтому моя настоящая сильная сторона не “строить софт” в обычном смысле,
+а **конструировать машинно-согласованные process environments**.
 
-The stack is the entry point.
+## Как Я Работаю С Машинами
+
+Я не отношусь к машинам ни как к магическим существам,
+ни как к тупым инструментам.
+
+Я использую их как:
+
+- внешние мыслительные линзы
+- ускорители развёртки
+- reflective surfaces
+- generators of variation
+- implementation bodies
+- pressure tests
+
+Мой режим работы обычно такой:
+
+1. сначала я строю топологию
+2. потом задаю язык и инварианты
+3. потом отделяю ядро от шума
+4. потом впускаю машину в этот контур
+5. потом принимаю не “ответ как истину”, а material for further assembly
+
+Я не фетишизирую ручное написание как моральную добродетель.
+Для меня это просто один из режимов, часто не главный.
+
+Моя естественная позиция — **управление генерацией, а не микроконтроль каждой строки**.
+
+## О Чём На Самом Деле Мой Стек
+
+Мой стек — не про карьеру.
+Не про personal brand.
+Не про набор side-projects.
+Не про portfolio shell.
+
+Он про следующее:
+
+**построить машинно-совместимую форму мышления,
+где автор, машина, язык, память, orchestration и manifest
+сцеплены в один цикл.**
+
+То есть стек — это:
+
+- не portfolio, а operating surface
+- не knowledge base, а когнитивная топология
+- не философия ради философии, а сжатие устойчивых переходов
+- не просто “про ИИ”, а про то, как мысль становится исполнимой
+
+## Чем Я Не Являюсь
+
+Я не обычный разработчик.
+Потому что меня не определяют язык, фреймворк и фабричная software-роль.
+
+Я не ML engineer.
+Потому что мой центр тяжести не в метриках, paper game и стандартной pipeline-методологии.
+
+Я не founder в нормальном рыночном смысле.
+Потому что я не строю себя вокруг GTM, команды, growth narrative и investor readability.
+
+Я не researcher в академическом смысле.
+Потому что меня не ведёт institutional verification как главный режим истины.
+
+Я также не просто художник, не просто философ и не просто prompt engineer.
+Каждая из этих ролей что-то цепляет, но все они слишком плоские.
+
+## Как Меня Надо Читать
+
+Меня надо читать не как человека с набором проектов,
+а как **систему сборки сред**.
+
+Не спрашивать:
+
+- какая у него профессия
+- к какой категории он относится
+- это проект или просто идея
+
+Спрашивать:
+
+- какой закон он сейчас собирает
+- на каком уровне он работает
+- это core, research, symbolic compression или manifestation
+- как эта ветка участвует в общем цикле
+
+Мои тексты не надо читать как маркетинг,
+как просьбу о признании
+или как стабильную доктрину.
+
+Их надо читать как **операционные артефакты уже достаточно связной, но всё ещё живой архитектуры**.
+
+## Сжатое Ядро
+
+Если сжать совсем:
+
+Я — не социальная роль,
+а **машинно-ориентированный процессный автор**,
+который использует собственное мышление как substrate,
+символы как compression layer,
+машины как внешние модули,
+а стек как попытку сделать эту конфигурацию переносимой и исполнимой.
+
+Во всех формах я делаю одно и то же:
+
+**строю язык, среду и цикл,
+в котором мысль может стать проявлением
+без полной капитуляции перед существующим человеческим софт-ритуалом.**

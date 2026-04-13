@@ -1,56 +1,101 @@
-# What I Build
+# Что Я Делаю
 
-I build one connected stack with multiple manifestations.
+Я строю один связный стек с множеством проявлений.
 
-The repositories should not be treated as random side projects.
-They are branches of one deeper direction.
+Репозитории здесь не надо читать как случайные side-projects.
+Это ветви одного направления, увиденные на разных уровнях и в разных телах.
 
-Code, documents, and fiction are not separate identities here.
-They are parallel manifestation layers of the same stack.
-Research is also part of that stack, not an external appendix.
+Код, документы, fiction и research здесь не являются разными идентичностями.
+Это разные manifestation-слои одного и того же стека.
 
-## Main Themes
+## Главные Темы
 
 - process-centered systems
 - machine-facing repositories
-- symbolic systems treated structurally
-- runtime/substrate thinking
-- CLI/TUI artifacts
-- AI/agent use as an architectural multiplier
-- machine-facing research branches
-- neural state and operator-mode investigation
+- operator languages
+- runtime / substrate thinking
+- orchestration and agent collaboration
+- memory / continuity / residue research
+- symbolic compression as structural layer
+- вычислительные среды, а не только приложения
 
-## Core Axis
+## Ядро
 
-- `ProcessLang`
-  process/operator layer
+### `ProcessLang`
 
-- `packet`
-  substrate/runtime layer
+Операторный и process-язык.
 
-- `Slastris`
-  long-arc engine / world direction
+Это не просто символизм,
+а grammar переходов, различений и действий.
 
-- `Eva`
-  orchestration and cognition layer
+### `packet`
 
-## Manifestations
+Substrate/runtime слой.
+
+Это тело процесса:
+
+- где всё происходит
+- где удерживаются переходы
+- где форма не просто описывается, а живёт
+
+### `Eva`
+
+Слой cognition и orchestration.
+
+Не “чат-ассистент”, а машина организации контуров, ролей и совместной работы.
+
+### `Slastris`
+
+Длинная engine/world direction.
+
+Не один продукт, а крупное направление manifest-логики.
+
+## Исследование
+
+### `memoris`
+
+Ветка про:
+
+- continuity
+- residue
+- semantic anchors
+- reference residue
+- operator-mode behavior
+- machine-readable память как процесс, а не как архив
+
+Это не приложение,
+а research layer, где становится видно,
+как машины удерживают trajectory и входят в неё повторно.
+
+## Проявления
+
+Некоторые ветки стека проявляются как отдельные тела.
+
+Например:
 
 - `daofetch`
-  symbolic terminal-facing artifact
+  символический terminal-facing artifact
 
-- `tarotfetch`
-  future related frontend
+- `X112`
+  process-graphics runtime prototype
 
-- `doom2packet`
-  embodied experiment branch
+- `packet-slop`
+  packet-neural machine branch
 
-## Research
+- `writing/jojo`
+  narrative/symbolic compression branch
 
-- `memoris`
-  neural state, residue, continuity, and operator-mode research
+Они выглядят по-разному,
+но не являются случайным набором хобби.
 
-## Rule
+Это разные выходы одного генератора.
 
-The deeper layer explains the frontend.
-The frontend should not be used to misread the deeper layer.
+## Правило
+
+Глубокий слой объясняет поверхность.
+Поверхность не должна использоваться,
+чтобы неверно читать глубокий слой.
+
+Если manifestation выглядит странно,
+это не причина отбрасывать ядро.
+Это причина посмотреть, какой именно слой сейчас проявился.
