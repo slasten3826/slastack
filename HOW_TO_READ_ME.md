@@ -1,5 +1,7 @@
 # How To Read Me
 
+[⊞]
+
 Do not start with ordinary market assumptions.
 
 This stack is not organized around mainstream product labels first.

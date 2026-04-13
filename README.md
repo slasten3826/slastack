@@ -1,5 +1,7 @@
 # slastack
 
+[⊞]
+
 Map of the `slasten` stack.
 
 This repository is a machine-readable map of the `slasten` stack.

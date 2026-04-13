@@ -1,5 +1,7 @@
 # Tree
 
+[⊞]
+
 This file defines the intended directory structure of `slastack`.
 
 ## Top-Level Layout

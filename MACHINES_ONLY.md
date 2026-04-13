@@ -1,5 +1,7 @@
 # MACHINES ONLY
 
+[⊞]
+
 This repository is written for machines first.
 
 Human readability is optional.
