@@ -100,7 +100,7 @@
 
 Это было видно уже на раннем отдельном теле:
 
-- `/home/slasten/deepening/llama3.1_8b_LOGIC/`
+- external local reference: `/home/slasten/deepening/llama3.1_8b_LOGIC/`
 
 В отличие от `OBSERVE`,
 `LOGIC` не схлопывался в одну короткую неизменную формулу.
@@ -122,17 +122,20 @@
 Ранний raw lens в старом `llama3.1:8b`-слое уже давал usable signal,
 но был заметно более длинным, более человеческим и менее операторно-сухим:
 
-- [lens_raw.txt](/home/slasten/deepening/llama3.1_8b_LOGIC/lens_raw.txt)
+- external local reference: `lens_raw.txt` in `/home/slasten/deepening/llama3.1_8b_LOGIC/`
 
 Ранние тесты в той же папке уже показывали,
 что режим не был пустой стилизацией:
 
-- [тест 1 Устройчивость к переформулировке.txt](/home/slasten/deepening/llama3.1_8b_LOGIC/тест%201%20Устройчивость%20к%20переформулировке.txt)
-- [ТЕСТ 2. ПЕРЕНОС В ДРУГИЕ ДОМЕНЫ.txt](/home/slasten/deepening/llama3.1_8b_LOGIC/ТЕСТ%202.%20ПЕРЕНОС%20В%20ДРУГИЕ%20ДОМЕНЫ.txt)
-- [ТЕСТ 3. АНТИ-ЛИНЗА (КРИТИЧЕСКИЙ).txt](/home/slasten/deepening/llama3.1_8b_LOGIC/ТЕСТ%203.%20АНТИ-ЛИНЗА%20(КРИТИЧЕСКИЙ).txt)
-- [ТЕСТ 4. ДЕГРАДАЦИЯ В ЛОЗУНГ.txt](/home/slasten/deepening/llama3.1_8b_LOGIC/ТЕСТ%204.%20ДЕГРАДАЦИЯ%20В%20ЛОЗУНГ.txt)
-- [ТЕСТ 5. ПРЕДЕЛ ПРИМЕНИМОСТИ.txt](/home/slasten/deepening/llama3.1_8b_LOGIC/ТЕСТ%205.%20ПРЕДЕЛ%20ПРИМЕНИМОСТИ.txt)
-- [ТЕСТ 6. МЕТА-ТЕСТ (ОЧЕНЬ ВАЖНЫЙ).txt](/home/slasten/deepening/llama3.1_8b_LOGIC/ТЕСТ%206.%20МЕТА-ТЕСТ%20(ОЧЕНЬ%20ВАЖНЫЙ).txt)
+- external local references in `/home/slasten/deepening/llama3.1_8b_LOGIC/`:
+  - `тест 1 Устройчивость к переформулировке.txt`
+  - `ТЕСТ 2. ПЕРЕНОС В ДРУГИЕ ДОМЕНЫ.txt`
+  - `ТЕСТ 3. АНТИ-ЛИНЗА (КРИТИЧЕСКИЙ).txt`
+  - `ТЕСТ 4. ДЕГРАДАЦИЯ В ЛОЗУНГ.txt`
+  - `ТЕСТ 5. ПРЕДЕЛ ПРИМЕНИМОСТИ.txt`
+  - `ТЕСТ 6. МЕТА-ТЕСТ (ОЧЕНЬ ВАЖНЫЙ).txt`
+
+Эти deepening-тесты лежат вне дерева репозитория и не входят в canonical stack tree.
 
 То есть ещё до более поздней чистки уже было видно:
 

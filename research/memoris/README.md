@@ -59,15 +59,15 @@ It is a stack word, not an academic slogan.
 
 ## Current Documents
 
-- [origin](/home/slasten/Документы/stack/research/memoris/ORIGIN.md)
-- [first observation](/home/slasten/Документы/stack/research/memoris/FIRST_OBSERVATION.md)
-- [observe and logic](/home/slasten/Документы/stack/research/memoris/OBSERVE_AND_LOGIC.md)
+- [origin](ORIGIN.md)
+- [first observation](FIRST_OBSERVATION.md)
+- [observe and logic](OBSERVE_AND_LOGIC.md)
 
 ## Reading Order
 
-1. [origin](/home/slasten/Документы/stack/research/memoris/ORIGIN.md)
-2. [first observation](/home/slasten/Документы/stack/research/memoris/FIRST_OBSERVATION.md)
-3. [observe and logic](/home/slasten/Документы/stack/research/memoris/OBSERVE_AND_LOGIC.md)
+1. [origin](ORIGIN.md)
+2. [first observation](FIRST_OBSERVATION.md)
+3. [observe and logic](OBSERVE_AND_LOGIC.md)
 
 Read this branch in the following sequence:
 

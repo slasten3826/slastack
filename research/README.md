@@ -27,7 +27,7 @@ This layer exists to show how the stack thinks under pressure, how hypotheses ar
 
 ## Current Branches
 
-- [memoris](/home/slasten/Документы/stack/research/memoris/README.md)
+- [memoris](memoris/README.md)
 
 ## Reading Rule
 
