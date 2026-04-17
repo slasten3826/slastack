@@ -1,3 +1,4 @@
+# [⊞ ◈] [☵]
 # ENCODE.py
 # ENCODE: ProcessLang encoding and hierarchy simulation
 # Version: 2.0

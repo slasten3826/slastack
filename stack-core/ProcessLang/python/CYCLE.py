@@ -1,3 +1,4 @@
+# [◈] [☲]
 # CYCLE.py
 # CYCLE: ProcessLang infinite drive cycle simulation
 # Version: 2.0

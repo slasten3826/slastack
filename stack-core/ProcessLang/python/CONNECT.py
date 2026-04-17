@@ -1,3 +1,4 @@
+# [⋯ ⊞] [☰]
 # CONNECT.py
 # CONNECT: ProcessLang emergent connection simulation
 # Version: 2.0

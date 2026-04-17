@@ -1,3 +1,4 @@
+-- [⊞ ◈] [☵]
 -- ProcessLang :: ENCODE operator
 -- Function: compress, synthesize, accumulate into structure
 

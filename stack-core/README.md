@@ -1,3 +1,5 @@
+[⊞]
+
 # Stack Core
 
 This directory contains the deepest explanatory layer of the stack.

@@ -1,3 +1,4 @@
+# [◈] [☶]
 # LOGIC.py
 # LOGIC: ProcessLang logic, code, and rule simulation
 # Version: 2.0

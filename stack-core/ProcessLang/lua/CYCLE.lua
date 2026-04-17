@@ -1,3 +1,4 @@
+-- [◈] [☲]
 -- ProcessLang :: CYCLE operator
 -- Function: iterate, recurse, repeat until stable
 

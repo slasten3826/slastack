@@ -1,3 +1,4 @@
+# [⋯ ⊞] [☷]
 # DISSOLVE.py
 # DISSOLVE: ProcessLang crystallized form dissolution
 # Version: 2.0

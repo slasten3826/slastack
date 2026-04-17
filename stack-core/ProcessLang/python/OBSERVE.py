@@ -1,3 +1,4 @@
+# [⊞] [☴]
 # OBSERVE.py
 # OBSERVE: ProcessLang self-observation simulation
 # Version: 2.0

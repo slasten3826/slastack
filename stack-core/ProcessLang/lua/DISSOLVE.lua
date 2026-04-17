@@ -1,3 +1,4 @@
+-- [⋯ ⊞] [☷]
 -- ProcessLang :: DISSOLVE operator
 -- Function: decompose, analyze, break structures apart
 

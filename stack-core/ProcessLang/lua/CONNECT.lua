@@ -1,3 +1,4 @@
+-- [⋯ ⊞] [☰]
 -- ProcessLang :: CONNECT operator
 -- Function: link, compose, find analogies between structures
 

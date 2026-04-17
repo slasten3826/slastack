@@ -1,3 +1,4 @@
+-- [◈] [☶]
 -- ProcessLang :: LOGIC operator
 -- Function: reason, validate, apply rules
 

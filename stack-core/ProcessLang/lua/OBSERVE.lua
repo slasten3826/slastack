@@ -1,3 +1,4 @@
+-- [⊞] [☴]
 -- ProcessLang :: OBSERVE operator
 -- Function: measure, verify, fix value without changing it
 

@@ -1,3 +1,4 @@
+-- [▲] [△]
 -- ProcessLang :: MANIFEST operator
 -- Function: crystallize output, make real, render result
 

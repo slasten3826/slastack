@@ -1,3 +1,4 @@
+# [▲] [△]
 # MANIFEST.py
 # MANIFEST: ProcessLang output and manifestation simulation
 # Version: 2.0

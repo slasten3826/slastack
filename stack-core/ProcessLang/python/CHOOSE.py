@@ -1,3 +1,4 @@
+# [⊞ ◈] [☳]
 # CHOOSE.py
 # CHOOSE: ProcessLang choice/constraint simulation
 # Version: 2.0

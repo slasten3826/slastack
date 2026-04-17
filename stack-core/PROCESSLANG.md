@@ -1,3 +1,5 @@
+[⊞ ◈] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+
 # PROCESSLANG
 
 `ProcessLang` is the deepest formal layer currently exposed inside `slastack`.
