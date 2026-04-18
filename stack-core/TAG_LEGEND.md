@@ -75,7 +75,6 @@ These glyphs describe the dominant ProcessLang forces active in the document.
 Operator glyphs do not mean:
 
 - every operator in the document
-- full topology
 - exhaustive classification
 
 They mean:
@@ -83,6 +82,22 @@ They mean:
 - dominant active forces
 - best entry posture for reading
 - which process logic is most relevant in this text
+
+But they are not a free associative tag set.
+
+Operator glyphs must preserve valid ProcessLang topology.
+
+This means:
+
+- the operator block should be readable as a valid local contour
+- adjacency between neighboring glyphs must hold
+- do not assemble operator sets from loose thematic similarity
+- if no valid contour is clear, omit operator glyphs and keep only layer glyphs
+
+In short:
+
+- layer glyphs may be broad
+- operator glyphs must stay topologically honest
 
 Example:
 
@@ -94,6 +109,8 @@ Read as:
 
 - the document belongs primarily to `crystall`
 - it should be read through `runtime`, `observe`, and `encode`
+
+This operator block is valid because the local contour preserves ProcessLang adjacency.
 
 ## Reading Rule
 

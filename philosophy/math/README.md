@@ -1,3 +1,5 @@
+[⊞]
+
 # Math
 
 This directory contains the mathematical branch of the philosophy layer.

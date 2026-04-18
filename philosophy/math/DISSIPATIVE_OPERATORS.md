@@ -1,3 +1,5 @@
+[⊞ ◈] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+
 # DISSIPATIVE OPERATORS
 
 ## 0. Назначение

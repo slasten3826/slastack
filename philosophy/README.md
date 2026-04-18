@@ -1,3 +1,5 @@
+[⊞]
+
 # Philosophy
 
 This directory contains the deeper conceptual layer of the stack.
