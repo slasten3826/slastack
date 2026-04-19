@@ -13,6 +13,7 @@ slastack/
 ├── WHO_I_AM.md
 ├── WHAT_I_BUILD.md
 ├── HOW_TO_READ_ME.md
+├── MACHINES_ONLY.md
 ├── ENGINEERING_LAWS.md
 ├── REPOSITORIES.md
 ├── identity/

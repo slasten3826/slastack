@@ -89,7 +89,8 @@ canon.operators = {
     },
 }
 
-canon.order = {"▽", "☰", "☷", "☴", "☵", "☲", "☶", "☳", "☱", "△"}
+canon.inventory_order = {"▽", "☰", "☷", "☵", "☳", "☴", "☶", "☲", "☱", "△"}
+canon.trace_order = {"▽", "☰", "☷", "☴", "☵", "☲", "☶", "☳", "☱", "△"}
 
 canon.aliases = {}
 for glyph, operator in pairs(canon.operators) do
