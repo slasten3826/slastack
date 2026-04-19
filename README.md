@@ -59,6 +59,7 @@ It should be read less as a portfolio shell and more as an inter_ai stack profil
 - [stack-core](stack-core/)
 - [research](research/)
 - [repositories](repositories/)
+- [projects](projects/)
 - [philosophy](philosophy/)
 - [writing](writing/)
 - [protocols](protocols/)

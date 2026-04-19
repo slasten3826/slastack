@@ -20,6 +20,7 @@ slastack/
 ├── stack-core/
 ├── research/
 ├── repositories/
+├── projects/
 ├── philosophy/
 ├── writing/
 ├── protocols/
@@ -67,6 +68,16 @@ Per-repository index files:
 - how it should be read
 - links
 - status and relationship to the whole stack
+
+### `projects/`
+
+Downstream project artifacts:
+
+- yellowprints
+- specs
+- design tables
+- early architecture documents
+- playable / buildable manifestations of stack ideas
 
 ### `philosophy/`
 
@@ -117,5 +128,6 @@ In particular:
 
 - `stack-core/` contains `ProcessLang` material
 - `research/` contains the first curated research branch: `memoris`
+- `projects/` contains downstream project surfaces such as `processcards`
 - `philosophy/math/` contains formal mathematics/process documents
 - `writing/jojo/` should be read as a connected narrative branch, not detached side content
