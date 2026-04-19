@@ -1,6 +1,6 @@
 # ProcessLang Artifacts
 
-[⋯→⊞] [☵ ☶ ☱]
+[⋯ ⊞] [☵ ☳ ☶ ☱]
 
 This file stores small but meaningful artifacts related to the living use and internalization of `ProcessLang`.
 

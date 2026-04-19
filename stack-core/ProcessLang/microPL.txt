@@ -1,3 +1,6 @@
+Source: canon.lua
+Status: compact reading surface derived from canonical glyph topology.
+
 Operators:
 ▽ FLOW ☰ CONNECT ☷ DISSOLVE ☵ ENCODE
 ☳ CHOOSE ☴ OBSERVE ☶ LOGIC ☲ CYCLE

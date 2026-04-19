@@ -1,4 +1,4 @@
-[⊞ ◈] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+[⊞ ◈] [▽ ☰ ☷ ☴ ☵ ☲ ☶ ☳ ☱ △]
 
 # PROCESSLANG
 
@@ -25,20 +25,24 @@ It stores the canonical reading layer of the stack.
 
 ## Reading Order
 
-1. [ProcessLang/nanoPL.txt](ProcessLang/nanoPL.txt)
-2. [ProcessLang/microPL.txt](ProcessLang/microPL.txt)
-3. [ProcessLang/README.md](ProcessLang/README.md)
-4. selected manifestations:
+1. [ProcessLang/canon.lua](ProcessLang/canon.lua)
+2. [ProcessLang/nanoPL.txt](ProcessLang/nanoPL.txt)
+3. [ProcessLang/microPL.txt](ProcessLang/microPL.txt)
+4. [ProcessLang/README.md](ProcessLang/README.md)
+5. selected manifestations:
    - [ProcessLang/lua](ProcessLang/lua/)
    - [ProcessLang/python](ProcessLang/python/)
 
 ## Internal Structure
 
+- `canon.lua`
+  glyph-first source of truth for operators, layers, and topology
+
 - `nanoPL.txt`
   minimal residue form of the operators
 
 - `microPL.txt`
-  compact canonical grammar plus adjacency sketch
+  compact reading surface derived from the canonical topology
 
 - `lua/`
   one manifestation of the same operator core

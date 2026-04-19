@@ -42,7 +42,7 @@ Machine-facing profile material:
 Deepest stack documents:
 
 - ProcessLang
-- canonical ProcessLang payload
+- canonical ProcessLang payload via `canon.lua`
 - selected operator manifestations
 - stack ontology
 - layer maps

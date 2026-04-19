@@ -86,6 +86,7 @@ They mean:
 But they are not a free associative tag set.
 
 Operator glyphs must preserve valid ProcessLang topology.
+The canonical topology source is [ProcessLang/canon.lua](ProcessLang/canon.lua).
 
 This means:
 

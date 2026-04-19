@@ -1,4 +1,4 @@
-[⊞ ◈] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+[⊞ ◈] [▽ ☰ ☷ ☴ ☵ ☲ ☶ ☳ ☱ △]
 
 # DISSIPATIVE OPERATORS
 
@@ -493,14 +493,16 @@ Manifest всегда зависит от runtime
 В диссипативной математике операторы не считаются полностью свободно сочетаемыми.
 
 Разрешённая adjacency:
+таблица ниже является derived view из `stack-core/ProcessLang/canon.lua`.
+При расхождении каноном считается `canon.lua`, а не markdown-проекция.
 
 ```text
 ▽ -> ☰ ☷ ☴
 ☰ -> ▽ ☷ ☴ ☵
 ☷ -> ▽ ☰ ☴ ☳
 ☴ -> ▽ ☰ ☷ ☵ ☳ ☱
-☵ -> ☴ ☱ ☳ ☲
-☳ -> ☴ ☱ ☵ ☶
+☵ -> ☰ ☴ ☱ ☳ ☲
+☳ -> ☷ ☴ ☱ ☵ ☶
 ☱ -> ☴ △ ☵ ☳ ☶ ☲
 ☲ -> ☵ ☶ △ ☱
 ☶ -> ☳ ☲ ☱ △
@@ -514,15 +516,15 @@ FLOW    -> { CONNECT, DISSOLVE, OBSERVE }
 CONNECT -> { FLOW, DISSOLVE, OBSERVE, ENCODE }
 DISSOLVE-> { FLOW, CONNECT, OBSERVE, CHOOSE }
 OBSERVE -> { FLOW, CONNECT, DISSOLVE, ENCODE, CHOOSE, RUNTIME }
-ENCODE  -> { OBSERVE, RUNTIME, CHOOSE, CYCLE }
-CHOOSE  -> { OBSERVE, RUNTIME, ENCODE, LOGIC }
+ENCODE  -> { CONNECT, OBSERVE, RUNTIME, CHOOSE, CYCLE }
+CHOOSE  -> { DISSOLVE, OBSERVE, RUNTIME, ENCODE, LOGIC }
 RUNTIME -> { OBSERVE, MANIFEST, ENCODE, CHOOSE, LOGIC, CYCLE }
 CYCLE   -> { ENCODE, LOGIC, MANIFEST, RUNTIME }
 LOGIC   -> { CHOOSE, CYCLE, RUNTIME, MANIFEST }
 MANIFEST-> { RUNTIME, CYCLE, LOGIC }
 ```
 
-Это и есть каноническая topology из `microPL`.
+Это derived projection канонической topology из `canon.lua`.
 Любые другие adjacency-таблицы должны считаться legacy-вариантами, пока явно не доказано обратное.
 
 Это важно, потому что:

@@ -1,4 +1,4 @@
-[⊞ ◈] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+[⊞ ◈] [▽ ☰ ☷ ☴ ☵ ☲ ☶ ☳ ☱ △]
 
 # ProcessLang
 
@@ -28,13 +28,19 @@ But many projects in the stack are downstream of it.
 
 ## Files Here
 
+- [canon.lua](canon.lua)
+  - glyph-first source of truth
+  - operator names
+  - layer mapping
+  - canonical topology / adjacency
+
 - [nanoPL.txt](nanoPL.txt)
   - minimal operator definitions
 
 - [microPL.txt](microPL.txt)
   - operator list
   - short core descriptions
-  - topology / adjacency sketch
+  - compact topology / adjacency reading surface
 
 - [lua](lua/)
   - one manifestation of the operator layer in Lua
@@ -57,10 +63,11 @@ It is used as:
 
 If you are new:
 
-1. read `nanoPL.txt`
-2. then read `microPL.txt`
-3. then inspect `lua/` and `python/` as two manifestations of the same invariant core
-4. only after that move to higher layers like:
+1. read `canon.lua`
+2. then read `nanoPL.txt`
+3. then read `microPL.txt`
+4. then inspect `lua/` and `python/` as two manifestations of the same invariant core
+5. only after that move to higher layers like:
    - `packet`
    - `daofetch`
    - `Slastris`

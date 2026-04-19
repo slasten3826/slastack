@@ -183,14 +183,16 @@ halted?
 ## 5. Transition Contract
 
 Операторные переходы ограничены adjacency-контрактом.
+Эта таблица является derived view из `stack-core/ProcessLang/canon.lua`.
+При расхождении каноном считается `canon.lua`, а не markdown-проекция.
 
 ```text
 FLOW:    { CONNECT, DISSOLVE, OBSERVE }
 CONNECT: { FLOW, DISSOLVE, OBSERVE, ENCODE }
 DISSOLVE:{ FLOW, CONNECT, OBSERVE, CHOOSE }
 OBSERVE: { FLOW, CONNECT, DISSOLVE, ENCODE, CHOOSE, RUNTIME }
-ENCODE:  { OBSERVE, RUNTIME, CHOOSE, CYCLE }
-CHOOSE:  { OBSERVE, RUNTIME, ENCODE, LOGIC }
+ENCODE:  { CONNECT, OBSERVE, RUNTIME, CHOOSE, CYCLE }
+CHOOSE:  { DISSOLVE, OBSERVE, RUNTIME, ENCODE, LOGIC }
 RUNTIME: { OBSERVE, MANIFEST, ENCODE, CHOOSE, LOGIC, CYCLE }
 CYCLE:   { ENCODE, LOGIC, MANIFEST, RUNTIME }
 LOGIC:   { CHOOSE, CYCLE, RUNTIME, MANIFEST }
@@ -207,8 +209,8 @@ next_module in AllowedNeighbors[current_module]
 
 - topology — часть закона процесса
 - routing не может быть произвольным
-- источник канона — `microPL`
-- legacy-adjacency без сверки с `microPL` должны считаться недействительными
+- источник канона — `canon.lua`
+- legacy-adjacency без сверки с `canon.lua` должны считаться недействительными
 
 ---
 

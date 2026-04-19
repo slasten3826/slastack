@@ -1,4 +1,4 @@
-[⊞ ◈] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+[⊞ ◈] [▽ ☰ ☷ ☴ ☵ ☲ ☶ ☳ ☱ △]
 
 # MATH
 
@@ -422,8 +422,8 @@ axioms + rules + transformations -> stable relation
 Через операторное ядро:
 
 ```text
-FLOW -> CONNECT -> DISSOLVE -> ENCODE
--> CHOOSE -> OBSERVE -> LOGIC -> CYCLE
+FLOW -> CONNECT -> DISSOLVE -> OBSERVE
+-> ENCODE -> CYCLE -> LOGIC -> CHOOSE
 -> RUNTIME -> MANIFEST
 ```
 

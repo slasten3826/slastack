@@ -1,10 +1,15 @@
--- [⋯ ⊞ ◈ ▲] [▽ ☰ ☷ ☵ ☳ ☴ ☶ ☲ ☱ △]
+-- [⋯ ⊞ ◈ ▲] [▽ ☰ ☷ ☴ ☵ ☲ ☶ ☳ ☱ △]
 -- ProcessLang :: Main Entry Point
 -- Version: 1.0
 -- Author: @slasten3826
 -- Usage: local pl = require("processlang")
 
 local processlang = {}
+
+-- Canonical glyph-first topology lives one level above this manifestation.
+local source = debug.getinfo(1, "S").source
+local base = source:sub(1, 1) == "@" and source:sub(2):match("(.*/)") or "./"
+processlang.canon = dofile(base .. "../canon.lua")
 
 -- Load all 10 operators
 processlang.FLOW     = require("FLOW")
