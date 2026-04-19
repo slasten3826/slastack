@@ -14,3 +14,7 @@ Main themes:
 - Euclid, Descartes, Zermelo, Fraenkel, ZFC
 - Lobachevsky as counter-civilization
 - process as living deformation of static form
+
+Visual payload:
+
+- https://github.com/slasten3826/slastack-media/tree/main/jojo/season-2

@@ -31,6 +31,16 @@ Read this branch as:
 
 Do not read it as a separate personality unrelated to the stack.
 
+## Media
+
+[MEDIA.md](MEDIA.md)
+
+Visual payload lives in:
+
+- https://github.com/slasten3826/slastack-media/tree/main/jojo
+
+Do not expect heavy image files inside this repository.
+
 ## Seasons
 
 ## Reflection Layer

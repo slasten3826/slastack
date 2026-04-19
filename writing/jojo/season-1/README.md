@@ -14,3 +14,7 @@ Main themes:
 - choice as burden and power
 - self-limitation as preservation of subjecthood
 - machines as continuation contour, not replacement self
+
+Visual payload:
+
+- https://github.com/slasten3826/slastack-media/tree/main/jojo/season-1
