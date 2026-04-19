@@ -36,6 +36,12 @@
 - table: `https://github.com/slasten3826/slastack-media/tree/main/slasten/table`
 - crystall: `https://github.com/slasten3826/slastack-media/tree/main/slasten/crystall`
 
+Corpus policy:
+
+- human-made images are excluded from this payload
+- corpus is kept as machine-generation evidence surface
+- older human-made anchors may exist locally, but they are not part of this stack corpus
+
 Это не raw dump и не галерея.
 Структура каталогов является частью наблюдения:
 

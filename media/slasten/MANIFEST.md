@@ -30,8 +30,8 @@ table:
 crystall:
   repo_path: slasten/crystall/
   github_url: https://github.com/slasten3826/slastack-media/tree/main/slasten/crystall
-  files: 17
-  size: 34M
+  files: 15
+  size: 33M
   role: crystallized manifestation examples
 ```
 
