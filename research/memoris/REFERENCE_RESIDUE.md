@@ -1,6 +1,6 @@
-# reference residue
+[⊞ ◈] [☴ ☱ ☵]
 
-[⊞→◈] [☴ ☱ ☵]
+# reference residue
 
 ## Статус
 

@@ -1,3 +1,5 @@
+[⊞]
+
 # memoris
 
 `memoris` is a research branch about neural state, compiled lenses, residues, and continuity in transformer-like systems.

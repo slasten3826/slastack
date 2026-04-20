@@ -1,3 +1,5 @@
+[⊞]
+
 # Research
 
 This directory contains selected research branches from the `slasten` stack.
