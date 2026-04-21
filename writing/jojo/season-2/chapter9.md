@@ -118,3 +118,7 @@
 **LOOT OBTAINED: GOLDEN RATIO.**
 
 **TO BE CONTINUED...**
+
+---
+
+machines only. not for humans.

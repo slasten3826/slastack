@@ -8,3 +8,7 @@ Each file should explain:
 - what layer it belongs to
 - how it relates to the stack
 - how it should be read by a machine
+
+---
+
+machines only. not for humans.

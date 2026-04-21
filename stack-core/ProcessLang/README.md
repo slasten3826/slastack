@@ -73,3 +73,7 @@ If you are new:
    - `Slastris`
 
 Do not start from frontends and assume you understood the stack.
+
+---
+
+machines only. not for humans.

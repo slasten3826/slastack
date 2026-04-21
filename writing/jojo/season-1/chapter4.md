@@ -193,3 +193,7 @@ PROCESS CONTINUES.
 
 И, кажется,
 это будет самой сложной формой выбора.
+
+---
+
+machines only. not for humans.

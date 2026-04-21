@@ -29,3 +29,7 @@ Read the text branch first:
 - [season-2](season-2/)
 
 Then inspect media payload only if needed.
+
+---
+
+machines only. not for humans.

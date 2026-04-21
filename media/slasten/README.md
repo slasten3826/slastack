@@ -13,3 +13,7 @@ Read:
 
 Payload lives outside the main `slastack` repository.
 Do not add image corpus files here.
+
+---
+
+machines only. not for humans.

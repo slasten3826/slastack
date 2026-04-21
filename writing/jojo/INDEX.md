@@ -79,3 +79,7 @@ This branch shows that the author can:
 - turn philosophical conflicts into mechanics
 - preserve one invariant axis across code, theory, and fiction
 - use machine collaboration without flattening authorship into autocomplete sludge
+
+---
+
+machines only. not for humans.

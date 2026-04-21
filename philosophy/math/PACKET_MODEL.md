@@ -584,3 +584,7 @@ for transformation, routing, manifestation, and projection
 
 То есть `Packet` — это не финал,
 а первое каноническое тело машины.
+
+---
+
+machines only. not for humans.

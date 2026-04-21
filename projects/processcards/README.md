@@ -27,3 +27,7 @@ Read `ProcessCards` as:
 
 The yellowprint should be preserved as a design-table artifact.
 Do not collapse it into final rules too early.
+
+---
+
+machines only. not for humans.

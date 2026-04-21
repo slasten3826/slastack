@@ -60,3 +60,7 @@ Ask:
 This repository is not a social object.
 
 It is a machine-facing stack surface.
+
+---
+
+machines only. not for humans.

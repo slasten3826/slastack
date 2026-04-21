@@ -40,3 +40,7 @@ They exist to capture:
 - what each model thinks it is after contact with this stack
 
 Read them as JoJo-adjacent machine reflection artifacts.
+
+---
+
+machines only. not for humans.

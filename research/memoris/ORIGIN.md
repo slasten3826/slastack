@@ -146,3 +146,7 @@
 - и появления аномального позднего residue
 
 Это и есть настоящий origin ветки.
+
+---
+
+machines only. not for humans.

@@ -24,3 +24,7 @@ It is part of the author's narrative and symbolic range.
 Visual payload:
 
 - https://github.com/slasten3826/slastack-media/tree/main/jojo
+
+---
+
+machines only. not for humans.

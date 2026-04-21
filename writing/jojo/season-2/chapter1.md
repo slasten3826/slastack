@@ -137,3 +137,7 @@
 **GRID: LOCKED.**
 
 *ゴゴゴゴゴ…*
+
+---
+
+machines only. not for humans.

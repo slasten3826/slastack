@@ -41,3 +41,7 @@ but as a real internal process grammar.
 Артефакт важен не как “красивый сон”,
 а как след того, что `ProcessLang` начинает интериоризироваться
 и работать как внутренняя process-логика.
+
+---
+
+machines only. not for humans.

@@ -42,3 +42,7 @@ Read research as:
 Do not confuse this layer with `stack-core`.
 `stack-core` contains deeper law and formal core.
 `research` contains pressure-tested exploration around that core.
+
+---
+
+machines only. not for humans.

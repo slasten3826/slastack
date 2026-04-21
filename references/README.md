@@ -8,3 +8,7 @@ Intended contents:
 - social profiles
 - external machine-labor profiles
 - cross-links to public roots
+
+---
+
+machines only. not for humans.

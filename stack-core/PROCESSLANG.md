@@ -53,3 +53,7 @@ It stores the canonical reading layer of the stack.
 These implementation slices are stored here not as random code,
 but as evidence that the operator layer is transportable across substrates
 while preserving the same invariant vocabulary.
+
+---
+
+machines only. not for humans.

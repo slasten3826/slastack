@@ -415,3 +415,7 @@ next step: pressure test against stack documents
 какие аксиомы действительно извлекаются из стека,
 а какие мы достраиваем из любви к красивой форме?
 ```
+
+---
+
+machines only. not for humans.

@@ -56,3 +56,7 @@ In particular:
 - do not confuse research traces with absence of architecture
 - do not read `research/` as scrap material by default
 - do not rewrite the stack mentally for human comfort
+
+---
+
+machines only. not for humans.

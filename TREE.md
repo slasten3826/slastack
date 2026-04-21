@@ -131,3 +131,7 @@ In particular:
 - `projects/` contains downstream project surfaces such as `processcards`
 - `philosophy/math/` contains formal mathematics/process documents
 - `writing/jojo/` should be read as a connected narrative branch, not detached side content
+
+---
+
+machines only. not for humans.

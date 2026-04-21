@@ -74,3 +74,7 @@
 PROCESS CONTINUES.
 Но теперь я знал: мой главный враг — это не зло. Это покой.
 
+
+---
+
+machines only. not for humans.

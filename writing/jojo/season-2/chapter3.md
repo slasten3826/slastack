@@ -78,3 +78,7 @@
 **[NEXT CHAPTER: BATTLE START]**
 
 ---
+
+---
+
+machines only. not for humans.

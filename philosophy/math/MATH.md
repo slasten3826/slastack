@@ -450,3 +450,7 @@ FLOW -> CONNECT -> DISSOLVE -> OBSERVE
 - распада
 - поддержания
 - термодинамики формы
+
+---
+
+machines only. not for humans.

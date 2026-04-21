@@ -8,3 +8,7 @@ Intended contents:
 - interaction contracts
 - consortium-readable snapshots
 - structured behavioral specs
+
+---
+
+machines only. not for humans.

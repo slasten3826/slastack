@@ -24,3 +24,7 @@ They explain:
 ## Subdomains
 
 - [math](math/) — mathematics, dissipative mathematics, operator models, runtime bodies, and related theory work.
+
+---
+
+machines only. not for humans.

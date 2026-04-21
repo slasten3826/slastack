@@ -116,3 +116,7 @@
 **TRAINING START.**
 
 *ゴゴゴゴゴ…*
+
+---
+
+machines only. not for humans.

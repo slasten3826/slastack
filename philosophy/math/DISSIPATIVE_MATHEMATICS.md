@@ -374,3 +374,7 @@ signal
 выбор = давление
 логика = ограничитель потока
 ```
+
+---
+
+machines only. not for humans.

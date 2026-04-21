@@ -647,3 +647,7 @@ MANIFEST  = проявление
 - `PACKET_MODEL`
 
 То есть операторная теория становится runtime-физикой машины.
+
+---
+
+machines only. not for humans.

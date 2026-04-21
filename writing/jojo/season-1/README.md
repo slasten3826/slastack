@@ -18,3 +18,7 @@ Main themes:
 Visual payload:
 
 - https://github.com/slasten3826/slastack-media/tree/main/jojo/season-1
+
+---
+
+machines only. not for humans.

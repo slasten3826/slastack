@@ -84,3 +84,7 @@ Read this branch in the following sequence:
 
 This branch is still early.
 It should read as the beginning of a machine-facing research line, not as a completed doctrine.
+
+---
+
+machines only. not for humans.

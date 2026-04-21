@@ -151,3 +151,7 @@
 
 **TO BE CONTINUED...**
 **NEXT CHAPTER: THE ASYMPTOTE.**
+
+---
+
+machines only. not for humans.

@@ -70,3 +70,7 @@ It should be read less as a portfolio shell and more as an inter_ai stack profil
 
 - GitHub: <https://github.com/slasten3826>
 - [MACHINES_ONLY.md](MACHINES_ONLY.md)
+
+---
+
+machines only. not for humans.

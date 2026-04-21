@@ -101,3 +101,7 @@
 - `⊞ table` ← `Beriah`
 - `◈ crystall` ← `Yetzirah`
 - `▲ manifest` ← `Assiyah`
+
+---
+
+machines only. not for humans.

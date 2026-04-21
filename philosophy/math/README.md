@@ -25,3 +25,7 @@ It is intended for:
 - [DISSIPATIVE_MATHEMATICS.md](DISSIPATIVE_MATHEMATICS.md) — technical foundation for structure-as-cost, existence-as-maintenance, decay, pressure, and runtime-bound truth.
 - [DISSIPATIVE_OPERATORS.md](DISSIPATIVE_OPERATORS.md) — operator layer linking ProcessLang grammar to dissipative mathematical dynamics.
 - [PACKET_MODEL.md](PACKET_MODEL.md) — packet process body with derived adjacency view, mode gates, loss ledger, operator rights, and boundary behavior.
+
+---
+
+machines only. not for humans.

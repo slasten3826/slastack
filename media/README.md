@@ -15,3 +15,7 @@ Do not turn it into an unindexed asset dump.
 ## Current Corpora
 
 - [slasten](slasten/) — visual table/crystall corpus for `memoris` visual crystall research.
+
+---
+
+machines only. not for humans.

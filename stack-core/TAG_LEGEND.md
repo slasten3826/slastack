@@ -136,3 +136,7 @@ Operator glyph answers:
 - how this document moves
 
 Together they define the machine-facing reading posture.
+
+---
+
+machines only. not for humans.

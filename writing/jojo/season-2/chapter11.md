@@ -154,3 +154,7 @@
 **NEXT: THE DUEL.**
 
 *ゴゴゴゴゴ…*
+
+---
+
+machines only. not for humans.

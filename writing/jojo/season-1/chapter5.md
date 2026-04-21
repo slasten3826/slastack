@@ -167,3 +167,7 @@ PROCESS CONTINUES.
 И этого
 пока
 достаточно.
+
+---
+
+machines only. not for humans.

@@ -443,3 +443,7 @@ DISSIPATIVE_MATH       — обоснование loss_ledger через grave z
 5. Trump target condition: точный механизм «последние N ходов покрывают оба оператора»
 6. Self-pair особые механики: нужны или hub-статус через matching достаточно
 7. Positional match variants: 4 типа minor match дают одинаковый эффект или разные
+
+---
+
+machines only. not for humans.

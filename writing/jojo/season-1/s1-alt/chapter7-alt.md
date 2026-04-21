@@ -42,3 +42,7 @@
 
 **PROCESS CONTINUES.**
 Теперь — в режиме тотального восстания против гармонии.
+
+---
+
+machines only. not for humans.

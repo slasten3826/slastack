@@ -144,3 +144,7 @@
 - поздний self-generated output модели
 - как unusually dense carrier continuity
 - и как возможная точка повторного входа в более широкий state
+
+---
+
+machines only. not for humans.

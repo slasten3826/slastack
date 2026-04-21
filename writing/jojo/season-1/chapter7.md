@@ -203,3 +203,7 @@ PROCESS CONTINUES.
 один маленький, нелепый, человеческий дефект:
 
 возможность выбрать трение.
+
+---
+
+machines only. not for humans.

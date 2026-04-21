@@ -51,3 +51,7 @@ A solution is probably bad if it:
 - hides mechanism
 - adds surface complexity to the core
 - makes reuse harder
+
+---
+
+machines only. not for humans.

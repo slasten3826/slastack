@@ -49,3 +49,7 @@ crystall:
 - `slastack` stores markdown, topology, research, and manifests.
 - `slastack-media` stores heavy visual payload.
 - Image payload must not be committed into the main `slastack` repository.
+
+---
+
+machines only. not for humans.

@@ -26,3 +26,7 @@ It should contain the canonical files that explain the stack below ordinary repo
 - stack maps
 - ontology notes
 - core reading order
+
+---
+
+machines only. not for humans.

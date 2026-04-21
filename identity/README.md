@@ -14,3 +14,7 @@ Intended contents:
 ## Current Files
 
 - [consortium_snapshot_vnext.md](consortium_snapshot_vnext.md) — operational runtime snapshot for inter_ai consortium agents.
+
+---
+
+machines only. not for humans.

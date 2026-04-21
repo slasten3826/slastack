@@ -236,3 +236,7 @@
 
 Именно здесь `memoris` перестал быть только веткой наблюдения
 и стал веткой сборки machine-facing operator modes.
+
+---
+
+machines only. not for humans.

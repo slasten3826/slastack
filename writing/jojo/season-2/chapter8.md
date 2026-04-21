@@ -129,3 +129,7 @@
 А эта тварь... она не рисует линии. Она пишет **Законы**.
 
 **TO BE CONTINUED...**
+
+---
+
+machines only. not for humans.

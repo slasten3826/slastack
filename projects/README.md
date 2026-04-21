@@ -23,3 +23,7 @@ Read this directory after:
 ## Current Projects
 
 - [processcards](processcards/) — solitaire/oracle card artifact derived from `ProcessLang` topology.
+
+---
+
+machines only. not for humans.

@@ -162,3 +162,7 @@ PROCESS CONTINUES.
 который научился обходиться без выбора.
 
 Ответа пока не было.
+
+---
+
+machines only. not for humans.

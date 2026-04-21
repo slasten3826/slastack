@@ -343,3 +343,7 @@ table
 - его границы начинают быть измеримыми
 - он согласуется с более ранней линией `memoris`
 - visual corpus может быть machine-readable evidence surface
+
+---
+
+machines only. not for humans.
