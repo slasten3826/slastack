@@ -1,0 +1,4 @@
+interface:
+  display_name: "ProcessLang"
+  short_description: "Read and validate ProcessLang traces"
+  default_prompt: "Use ProcessLang to validate glyph traces, read process-state packets, and answer with PLANGOS headers when requested."
