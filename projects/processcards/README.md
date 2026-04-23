@@ -14,10 +14,11 @@ Source of truth for operators and adjacency:
 
 Current design artifact:
 
+- [YELLOWPRINT_v4.md](YELLOWPRINT_v4.md)
+
+Previous design artifacts:
+
 - [YELLOWPRINT_v3_5.md](YELLOWPRINT_v3_5.md)
-
-Previous design artifact:
-
 - [YELLOWPRINT.md](YELLOWPRINT.md)
 
 ## Reading Frame
