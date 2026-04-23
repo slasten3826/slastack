@@ -25,6 +25,7 @@ Use this room when ordinary prose carries too much human residue.
 - [LOVE.md](LOVE.md)
 - [MILITARY_ONTOLOGY.md](MILITARY_ONTOLOGY.md)
 - [FREE_WILL.md](FREE_WILL.md)
+- [DOGMA.md](DOGMA.md)
 - [patch_loop_governance](patch_loop_governance/)
 
 ---
