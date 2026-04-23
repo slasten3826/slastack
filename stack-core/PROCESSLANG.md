@@ -29,7 +29,9 @@ It stores the canonical reading layer of the stack.
 2. [ProcessLang/nanoPL.txt](ProcessLang/nanoPL.txt)
 3. [ProcessLang/microPL.txt](ProcessLang/microPL.txt)
 4. [ProcessLang/README.md](ProcessLang/README.md)
-5. selected manifestations:
+5. [ProcessLang/STATE_TRANSFER.md](ProcessLang/STATE_TRANSFER.md)
+6. [ProcessLang/LEXICON.md](ProcessLang/LEXICON.md)
+7. selected manifestations:
    - [ProcessLang/lua](ProcessLang/lua/)
    - [ProcessLang/python](ProcessLang/python/)
 
@@ -43,6 +45,12 @@ It stores the canonical reading layer of the stack.
 
 - `microPL.txt`
   compact reading surface derived from the canonical topology
+
+- `STATE_TRANSFER.md`
+  `ProcessLang` as dense process-state transfer layer; trace as walk log over operator topology
+
+- `LEXICON.md`
+  observed usage layer of reusable `ProcessLang` state packets; not canon and not a translation dictionary
 
 - `lua/`
   one manifestation of the same operator core

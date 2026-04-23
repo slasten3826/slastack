@@ -42,6 +42,16 @@ But many projects in the stack are downstream of it.
   - short core descriptions
   - compact topology / adjacency reading surface
 
+- [STATE_TRANSFER.md](STATE_TRANSFER.md)
+  - ProcessLang as dense process-state transfer layer
+  - PL sentence as walk log over operator topology
+  - trace, delta, and question-state transfer
+
+- [LEXICON.md](LEXICON.md)
+  - observed usage layer of reusable ProcessLang state packets
+  - not canon and not a translation dictionary
+  - stable traces that behave like compact utterances under usage-bound meaning
+
 - [lua](lua/)
   - one manifestation of the operator layer in Lua
 
