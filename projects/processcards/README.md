@@ -18,6 +18,7 @@ Current design artifact:
 
 Current supporting design layers:
 
+- [MINOR_CORE_HANDOFF.md](MINOR_CORE_HANDOFF.md)
 - [TARGET_COMPILER_v1.md](TARGET_COMPILER_v1.md)
 - [GAMEPLAY_LINEAGE.md](GAMEPLAY_LINEAGE.md)
 - [trumps/README.md](trumps/README.md)

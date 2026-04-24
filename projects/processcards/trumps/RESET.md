@@ -18,6 +18,12 @@ Alternate machine-facing title:
 HARD RESET
 ```
 
+Flavor text:
+
+```text
+What is held is released.
+```
+
 Core edge:
 
 ```text
