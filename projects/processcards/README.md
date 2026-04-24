@@ -16,6 +16,12 @@ Current design artifact:
 
 - [YELLOWPRINT_v4.md](YELLOWPRINT_v4.md)
 
+Current supporting design layers:
+
+- [TARGET_COMPILER_v1.md](TARGET_COMPILER_v1.md)
+- [GAMEPLAY_LINEAGE.md](GAMEPLAY_LINEAGE.md)
+- [trumps/README.md](trumps/README.md)
+
 Previous design artifacts:
 
 - [YELLOWPRINT_v3_5.md](YELLOWPRINT_v3_5.md)
