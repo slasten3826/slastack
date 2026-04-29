@@ -12,9 +12,10 @@ Source of truth for operators and adjacency:
 
 - [../../stack-core/ProcessLang/canon.lua](../../stack-core/ProcessLang/canon.lua)
 
-Current design artifact:
+Current canon candidates:
 
-- [YELLOWPRINT_v4.md](YELLOWPRINT_v4.md)
+- [BOARD_CANON_v1.md](BOARD_CANON_v1.md)
+- [WIN_CHECK_LAW.md](WIN_CHECK_LAW.md)
 
 Current supporting design layers:
 
@@ -25,6 +26,7 @@ Current supporting design layers:
 
 Previous design artifacts:
 
+- [YELLOWPRINT_v4.md](YELLOWPRINT_v4.md)
 - [YELLOWPRINT_v3_5.md](YELLOWPRINT_v3_5.md)
 - [YELLOWPRINT.md](YELLOWPRINT.md)
 
@@ -39,6 +41,8 @@ Read `ProcessCards` as:
 
 The yellowprint should be preserved as a design-table artifact.
 Do not collapse it into final rules too early.
+
+Current board/victory canon is no longer the same thing as the older yellowprint branch.
 
 ---
 

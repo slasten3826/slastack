@@ -2,6 +2,19 @@
 
 # ProcessCards Minor Core Handoff
 
+This document is now a legacy minor-only handoff
+for the earlier `5-slot` branch.
+
+It remains useful as historical prototype entry,
+but it is no longer the current board canon.
+
+Superseded by:
+
+- [BOARD_CANON_v1.md](BOARD_CANON_v1.md)
+- [WIN_CHECK_LAW.md](WIN_CHECK_LAW.md)
+
+---
+
 This document is the shortest correct handoff for a machine
 that needs to understand the current core gameplay of `ProcessCards`
 without the trump layer.

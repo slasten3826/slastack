@@ -6,6 +6,13 @@
 
 Yellowprint v4.
 
+Legacy board branch.
+
+Superseded as current board canon by:
+
+- [BOARD_CANON_v1.md](BOARD_CANON_v1.md)
+- [WIN_CHECK_LAW.md](WIN_CHECK_LAW.md)
+
 Это не финальная спецификация.
 Это не полный rulesheet.
 Это не set file для печати карт.

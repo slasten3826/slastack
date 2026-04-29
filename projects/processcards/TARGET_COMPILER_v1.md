@@ -4,7 +4,11 @@
 
 ## 0. Status
 
-Draft rules document.
+Legacy compiler draft.
+
+Superseded as current victory-structure candidate by:
+
+- [WIN_CHECK_LAW.md](WIN_CHECK_LAW.md)
 
 This document defines the structural laws of the victory-condition zone.
 It does **not** yet finalize the individual semantic payload of every trump.

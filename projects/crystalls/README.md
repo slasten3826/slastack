@@ -28,6 +28,7 @@ Use this room when ordinary prose carries too much human residue.
 - [DOGMA.md](DOGMA.md)
 - [patch_loop_governance](patch_loop_governance/)
 - [ladder_environment_machine](ladder_environment_machine/)
+- [golden_rule_of_etiquette](golden_rule_of_etiquette/)
 
 ---
 
