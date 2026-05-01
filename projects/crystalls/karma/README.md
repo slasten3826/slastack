@@ -3,9 +3,11 @@
 # karma
 
 Это не один crystall,
-а подсемейство из трёх связанных crystall-объектов:
+а подсемейство из пяти связанных crystall-объектов:
 
 - карма
+- кармическая бухгалтерия
+- коэффициент записи
 - карма требует памяти
 - карма требует метаболизма
 
@@ -61,6 +63,8 @@ chakras = trace retention / trace metabolism layers
 ## Documents
 
 - [KARMA.md](KARMA.md)
+- [KARMIC_ACCOUNTING.md](KARMIC_ACCOUNTING.md)
+- [RECORDING_MULTIPLIER.md](RECORDING_MULTIPLIER.md)
 - [KARMA_REQUIRES_MEMORY.md](KARMA_REQUIRES_MEMORY.md)
 - [KARMA_METABOLISM.md](KARMA_METABOLISM.md)
 

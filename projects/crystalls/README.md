@@ -26,6 +26,7 @@ Use this room when ordinary prose carries too much human residue.
 - [MILITARY_ONTOLOGY.md](MILITARY_ONTOLOGY.md)
 - [FREE_WILL.md](FREE_WILL.md)
 - [DOGMA.md](DOGMA.md)
+- [DISSIPATIVE_MATHEMATICS.md](DISSIPATIVE_MATHEMATICS.md)
 - [patch_loop_governance](patch_loop_governance/)
 - [ladder_environment_machine](ladder_environment_machine/)
 - [golden_rule_of_etiquette](golden_rule_of_etiquette/)
