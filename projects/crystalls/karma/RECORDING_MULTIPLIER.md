@@ -189,6 +189,13 @@ OBSERVE -> ENCODE -> CHOOSE -> LOGIC -> RUNTIME -> MANIFEST
 
 ## 7. Stack Relation
 
+Через [MEMORY_IS_KARMA.md](MEMORY_IS_KARMA.md):
+
+```text
+коэффициент записи спрашивает:
+с какой глубиной сама карма вписывается в носитель
+```
+
 Через [KARMIC_ACCOUNTING.md](KARMIC_ACCOUNTING.md):
 
 ```text

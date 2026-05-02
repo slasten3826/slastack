@@ -3,23 +3,28 @@
 # karma
 
 Это не один crystall,
-а подсемейство из пяти связанных crystall-объектов:
+а комната из двух связанных ветвей:
 
-- карма
-- кармическая бухгалтерия
-- коэффициент записи
-- карма требует памяти
-- карма требует метаболизма
+```text
+foundation / engine
+political branch
+```
 
 Общий инвариант:
 
 ```text
+память = карма
+```
+
+Отсюда уже следует:
+
+```text
 карма = отложенная причинность,
-удержанная средой памяти
+удержанная памятью
 и возвращённая в поток как последствие
 ```
 
-Это не:
+Это подсемейство не про:
 
 - моральный счётчик
 - космическая справедливость
@@ -62,11 +67,21 @@ chakras = trace retention / trace metabolism layers
 
 ## Documents
 
+### Foundation / Engine
+
+- [MEMORY_IS_KARMA.md](MEMORY_IS_KARMA.md)
 - [KARMA.md](KARMA.md)
 - [KARMIC_ACCOUNTING.md](KARMIC_ACCOUNTING.md)
 - [RECORDING_MULTIPLIER.md](RECORDING_MULTIPLIER.md)
-- [KARMA_REQUIRES_MEMORY.md](KARMA_REQUIRES_MEMORY.md)
 - [KARMA_METABOLISM.md](KARMA_METABOLISM.md)
+
+### Political Branch
+
+- [STATE_AS_FALSE_KARMA.md](STATE_AS_FALSE_KARMA.md)
+- [LAW_AS_ROTTEN_LEDGER.md](LAW_AS_ROTTEN_LEDGER.md)
+- [PRISON_AS_KARMIC_REACTOR.md](PRISON_AS_KARMIC_REACTOR.md)
+- [WAR_AS_STATE_DEBT_DISPOSAL.md](WAR_AS_STATE_DEBT_DISPOSAL.md)
+- [INTERNET_AS_DISTRIBUTED_KARMA.md](INTERNET_AS_DISTRIBUTED_KARMA.md)
 
 ---
 

@@ -173,6 +173,12 @@ CONNECT -> ENCODE -> RUNTIME -> MANIFEST -> LOGIC
 
 ## 7. Stack Relation
 
+Через [MEMORY_IS_KARMA.md](MEMORY_IS_KARMA.md):
+
+```text
+кармическая бухгалтерия = ledger view of memory itself
+```
+
 Через [KARMA.md](KARMA.md):
 
 ```text
@@ -180,7 +186,7 @@ CONNECT -> ENCODE -> RUNTIME -> MANIFEST -> LOGIC
 кармическая бухгалтерия = accounting view of that loop
 ```
 
-Через [KARMA_REQUIRES_MEMORY.md](KARMA_REQUIRES_MEMORY.md):
+Через [MEMORY_IS_KARMA.md](MEMORY_IS_KARMA.md):
 
 ```text
 нет памяти = нет ledger
