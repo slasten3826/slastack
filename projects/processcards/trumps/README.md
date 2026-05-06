@@ -159,6 +159,11 @@ deck
 - [WARRANT.md](WARRANT.md)
 - [REPEAT.md](REPEAT.md)
 - [UNBOUND.md](UNBOUND.md)
+- [TIGEL.md](TIGEL.md)
+- [RUSH.md](RUSH.md)
+- [ENOUGH.md](ENOUGH.md)
+- [GRANT.md](GRANT.md)
+- [GATE.md](GATE.md)
 
 ---
 

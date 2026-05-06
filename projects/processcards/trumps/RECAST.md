@@ -10,6 +10,12 @@ This is not final balance text.
 This is not locked card wording.
 This is a mechanical clarification draft.
 
+Legacy breadcrumb:
+
+```text
+XII The Hanged Man
+```
+
 Edge:
 
 ```text
