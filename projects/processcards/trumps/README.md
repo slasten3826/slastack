@@ -164,6 +164,11 @@ deck
 - [ENOUGH.md](ENOUGH.md)
 - [GRANT.md](GRANT.md)
 - [GATE.md](GATE.md)
+- [PURGE.md](PURGE.md)
+- [CANON.md](CANON.md)
+- [MAXIMIZE.md](MAXIMIZE.md)
+- [ERROR.md](ERROR.md)
+- [REQUIEM.md](REQUIEM.md)
 
 ---
 

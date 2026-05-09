@@ -96,9 +96,10 @@ When `GATE` becomes known:
 3. If a revealed card shares at least one operator with the gatekeeper, it remains in place.
 4. If a revealed card shares no operator with the gatekeeper, send it to `grave`.
 5. Check each revealed card in `latent layer` the same way.
-6. Hidden latent cards are not checked.
-7. After all purge completes, resolve ordinary board repair.
-8. After `GATE` fully resolves, it follows ordinary trump ecology.
+6. Check the revealed top card of `deck`, if any, the same way.
+7. Hidden latent cards are not checked.
+8. After all purge completes, resolve ordinary board repair.
+9. After `GATE` fully resolves, it follows ordinary trump ecology.
 
 Short formula:
 
@@ -152,13 +153,13 @@ Included:
 
 - `manifest chain`
 - revealed cards in `latent layer`
+- revealed top card of `deck`, if any
 
 Excluded:
 
 - hidden latent cards
 - `hand`
 - `grave`
-- `deck`
 - `target zone`
 - `runtime`
 - `trump zone`
